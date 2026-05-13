@@ -1,2 +1,0 @@
-Primeira linha: Aprendendo arquivos em C!
-Segunda linha: Adicionando mais conteudo sem apagar o anterior.
