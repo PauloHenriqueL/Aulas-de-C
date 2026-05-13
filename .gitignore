@@ -1,0 +1,32 @@
+# Binários compilados
+output/
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Arquivos de debug
+*.dSYM/
+*.gcno
+*.gcda
+*.gcov
+
+# Arquivos temporários do editor
+tempCodeRunnerFile.c
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Configurações locais do VSCode (manter launch.json e tasks.json se quiser versionar)
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+!.vscode/c_cpp_properties.json
+
+# Arquivos compactados de listas
+*.zip
