@@ -10,6 +10,7 @@ float media_matriz(int n, float matriz[][100]){
 
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++){
+           
             soma = soma + matriz[i][j];
         }
     }
