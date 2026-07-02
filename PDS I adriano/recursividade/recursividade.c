@@ -113,7 +113,7 @@ void cres(int a){
 }
 
 
-int main(){
+int main(){ 
     int n, r, a, b, m, c;
     double w;
 
